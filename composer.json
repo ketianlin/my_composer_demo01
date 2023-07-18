@@ -1,0 +1,18 @@
+{
+    "name": "ke666/my_composer_demo01",
+    "description": "2023年第一个compose包",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ke666\\MyComposerDemo01\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "暗里着迷",
+            "email": "642028114@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
